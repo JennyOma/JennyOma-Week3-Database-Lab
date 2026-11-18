@@ -1,0 +1,25 @@
+# Terraform provider files
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Saved Terraform plans
+*.tfplan
+
+# Variable files containing sensitive values
+*.tfvars
+*.tfvars.json
+
+# Environment variables and credentials
+.env
+.env.*
+
+# Private keys
+*.pem
+*.key
+
+# Terraform crash logs
+crash.log
+crash.*.log

@@ -1,0 +1,17 @@
+{
+    "UserID": {
+        "S": "USER-101"
+    },
+    "DocumentID": {
+        "S": "DOC-002"
+    },
+    "DocumentName": {
+        "S": "Fictional Evidence Summary"
+    },
+    "ProcessingStatus": {
+        "S": "Processing"
+    },
+    "UploadedAt": {
+        "S": "2026-11-23"
+    }
+}

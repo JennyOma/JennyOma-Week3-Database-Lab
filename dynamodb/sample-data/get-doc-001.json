@@ -1,0 +1,8 @@
+{
+    "UserID": {
+        "S": "USER-101"
+    },
+    "DocumentID": {
+        "S": "DOC-001"
+    }
+}
